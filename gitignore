@@ -1,0 +1,13 @@
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.env
+.DS_Store
+# large raw data
+data/raw/
+*.tif
+*.shp
+*.shx
+*.dbf
+*.geojson
+*.zip
